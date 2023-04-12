@@ -1,0 +1,24 @@
+.red{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    left: 5px;
+     
+}
+.yellow{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+} 
+.pink{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    right: 4px;
+}
